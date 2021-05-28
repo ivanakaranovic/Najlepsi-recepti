@@ -1,0 +1,37 @@
+
+body{
+  background-color:#eeccff ;
+
+}
+a {
+  color: black;
+}
+
+h1{
+  color: #440066;
+  text-align: center;
+  font-size: 40px;
+  font-family:sans-serif;
+  }
+h2{
+  color:black;
+  text-align: left;
+  font-size: 25px;
+  font-family:cursive;
+  }
+ table{ 
+   background-color: #FFE4E1;
+   }
+ li{ 
+   font-family:cursive;
+   font-size: 15px;
+   color:black;
+  
+   }
+p { background-color: #FFE4E1;
+margin:20px;
+font-family:sans-serif;
+   font-size: 15px;
+   color:black;
+  
+   }

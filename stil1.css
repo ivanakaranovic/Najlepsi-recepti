@@ -1,0 +1,103 @@
+
+body {
+  background-image:url("123.jpg") ;
+  color: white;
+}
+
+a {
+  color: black;
+}
+
+h1{
+  color: #440066;
+  text-align: center;
+  font-size: 40px;
+  font-family:sans-serif;
+  
+}
+
+h2{
+  color: black;
+  text-align: center;
+  font-size: 30px;
+  font-family:cursive;
+  text-shadow: 2px 2px  #d9d9d9;
+}
+
+
+
+
+
+
+
+
+
+
+
+.btn {
+ : center;
+  border: 5px;
+  border-color:#cc99ff;
+  background-color: inherit;
+  box-shadow: 3px 3px 5px #e6e6e6;
+  text-align:center;
+  padding: 14px 28px;
+  font-size: 30px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* ljubičasto */
+.prvi {
+  color: black;
+  background:#dab3ff;
+}
+
+.prvi:hover {
+  background-color: #d9d9d9;
+  color: white;
+}
+
+/* ljubičasto */
+.drugi {
+	background:#dab3ff;
+  color: black;
+}
+
+.drugi:hover {
+  background: #d9d9d9;
+  color: white;
+}
+
+/* ljubičasto */
+.treci {
+  color: black;
+  background:#dab3ff;
+}
+
+.treci:hover {
+  background: #d9d9d9;
+  color: white;
+}
+
+/* ljubičasto */
+.cetvrti {
+  color: black;
+  background:#dab3ff;
+}
+
+.cetvrti:hover {
+  background: #d9d9d9;
+  color: white;
+}
+
+/* ljubičasto */
+.peti {
+  color: black;
+  background:#dab3ff;
+}
+
+.peti:hover {
+  background: #d9d9d9;
+}
+
